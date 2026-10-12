@@ -1,0 +1,9 @@
+program_id,name,start_date,end_date,program_rate,max_term
+PRG-01,Programa Flotilla 01,2024-04-17,2024-08-11,7.9,36
+PRG-02,Programa Flotilla 02,2024-07-30,2024-11-06,3.9,36
+PRG-03,Programa Flotilla 03,2024-09-29,2025-01-16,8.9,48
+PRG-04,Programa Flotilla 04,2025-02-11,2025-06-09,8.9,48
+PRG-05,Programa Flotilla 05,2025-04-23,2025-07-27,7.9,48
+PRG-06,Programa Flotilla 06,2025-05-28,2025-08-18,3.9,36
+PRG-07,Programa Flotilla 07,2025-07-03,2025-09-10,3.9,48
+PRG-08,Programa Flotilla 08,2025-10-19,2026-02-09,3.9,36

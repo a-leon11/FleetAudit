@@ -1,0 +1,221 @@
+customer_id,name,industry,region,onboarded
+C-0001,Servicios Técnicos La Cumbrera S.A. de C.V.,field_services,Centro,2023-10-01
+C-0002,Servicios Eléctricos Nogalera S.A. de C.V.,utilities,Occidente,2022-09-06
+C-0003,Renta de Autos Alborada S.A. de C.V.,rental,Norte,2024-10-17
+C-0004,Obras y Proyectos Cañada Fría S.A. de C.V.,construction,Centro,2024-11-09
+C-0005,Logística Media Luna S.A. de C.V.,logistics,Norte,2025-02-18
+C-0006,Obras y Proyectos Las Ánimas S.A. de C.V.,construction,Noreste,2023-08-27
+C-0007,Arrendadora Encinal S.A. de C.V.,rental,Centro,2024-07-31
+C-0008,Transportes Mesa Blanca S.A. de C.V.,logistics,Centro,2024-05-31
+C-0009,Obras y Proyectos Ojo de Agua S.A. de C.V.,construction,Centro,2022-10-19
+C-0010,Logística Peñasco S.A. de C.V.,logistics,Norte,2023-01-04
+C-0011,Agroindustrias El Mezquital S.A. de C.V.,agribusiness,Centro,2024-09-07
+C-0012,Redes Mesa Blanca S.A. de C.V.,utilities,Sureste,2023-06-09
+C-0013,Constructora Lomas Grises S.A. de C.V.,construction,Centro,2025-04-17
+C-0014,Distribuidora Cerro Prieto S.A. de C.V.,distribution,Occidente,2023-07-23
+C-0015,Servicios Eléctricos Vega Roja S.A. de C.V.,utilities,Noreste,2023-10-16
+C-0016,Granjas Ojo de Agua S.A. de C.V.,agribusiness,Occidente,2023-07-01
+C-0017,Obras y Proyectos Puerto Viejo S.A. de C.V.,construction,Norte,2023-09-18
+C-0018,Redes Lomas Grises S.A. de C.V.,utilities,Noreste,2025-10-03
+C-0019,Granjas Los Pinos Dos S.A. de C.V.,agribusiness,Norte,2024-04-13
+C-0020,Redes Agua Clara S.A. de C.V.,utilities,Centro,2023-01-09
+C-0021,Servicios Eléctricos Bajío Verde S.A. de C.V.,utilities,Norte,2023-06-18
+C-0022,Constructora Rincón Hondo S.A. de C.V.,construction,Noreste,2022-09-25
+C-0023,Obras y Proyectos Tierra Alta S.A. de C.V.,construction,Noreste,2024-01-14
+C-0024,Servicios Técnicos Ojo de Agua S.A. de C.V.,field_services,Sureste,2023-04-12
+C-0025,Obras y Proyectos San Lorenzo Norte S.A. de C.V.,construction,Sureste,2023-06-19
+C-0026,Distribuidora Rincón Hondo S.A. de C.V.,distribution,Sureste,2023-07-10
+C-0027,Agroindustrias Alborada S.A. de C.V.,agribusiness,Noreste,2024-08-31
+C-0028,Arrendadora Piedra Larga S.A. de C.V.,rental,Noreste,2024-10-23
+C-0029,Distribuidora San Lorenzo Norte S.A. de C.V.,distribution,Sureste,2025-03-22
+C-0030,Logística Arroyo Seco S.A. de C.V.,logistics,Norte,2023-02-13
+C-0031,Arrendadora Media Luna S.A. de C.V.,rental,Centro,2024-01-07
+C-0032,Agroindustrias Vega Roja S.A. de C.V.,agribusiness,Occidente,2023-11-12
+C-0033,Agroindustrias La Cumbrera S.A. de C.V.,agribusiness,Norte,2022-11-20
+C-0034,Fletes Puerto Viejo S.A. de C.V.,logistics,Centro,2024-01-03
+C-0035,Arrendadora Nogalera S.A. de C.V.,rental,Sureste,2024-10-28
+C-0036,Servicios Técnicos Cañada Fría S.A. de C.V.,field_services,Sureste,2025-01-18
+C-0037,Granjas Tres Ríos S.A. de C.V.,agribusiness,Centro,2024-12-07
+C-0038,Logística Ojo de Agua S.A. de C.V.,logistics,Occidente,2026-02-01
+C-0039,Redes Las Ánimas S.A. de C.V.,utilities,Noreste,2025-01-17
+C-0040,Constructora San Lorenzo Norte S.A. de C.V.,construction,Centro,2022-11-29
+C-0041,Distribuidora Bajío Verde S.A. de C.V.,distribution,Occidente,2024-05-16
+C-0042,Constructora Mesa Blanca S.A. de C.V.,construction,Occidente,2023-12-28
+C-0043,Arrendadora El Mezquital S.A. de C.V.,rental,Occidente,2024-11-09
+C-0044,Distribuidora Piedra Larga S.A. de C.V.,distribution,Centro,2024-04-22
+C-0045,Renta de Autos Las Ánimas S.A. de C.V.,rental,Centro,2023-02-03
+C-0046,Obras y Proyectos Media Luna S.A. de C.V.,construction,Sureste,2023-01-01
+C-0047,Transportes Rincón Hondo S.A. de C.V.,logistics,Occidente,2023-03-16
+C-0048,Constructora Alborada S.A. de C.V.,construction,Norte,2023-01-26
+C-0049,Redes Encinal S.A. de C.V.,utilities,Occidente,2025-06-09
+C-0050,Servicios Eléctricos Ojo de Agua S.A. de C.V.,utilities,Sureste,2023-10-15
+C-0051,Renta de Autos Piedra Larga S.A. de C.V.,rental,Occidente,2025-09-07
+C-0052,Renta de Autos Tierra Alta S.A. de C.V.,rental,Occidente,2024-10-10
+C-0053,Comercializadora Palo Blanco S.A. de C.V.,distribution,Norte,2023-10-21
+C-0054,Comercializadora Alborada S.A. de C.V.,distribution,Sureste,2024-04-14
+C-0055,Constructora Piedra Larga S.A. de C.V.,construction,Centro,2023-11-07
+C-0056,Transportes Cerro Prieto S.A. de C.V.,logistics,Sureste,2023-10-01
+C-0057,Servicios Técnicos Vega Roja S.A. de C.V.,field_services,Sureste,2023-08-25
+C-0058,Arrendadora Agua Clara S.A. de C.V.,rental,Norte,2023-11-30
+C-0059,Servicios Eléctricos Media Luna S.A. de C.V.,utilities,Occidente,2023-11-22
+C-0060,Arrendadora La Cumbrera S.A. de C.V.,rental,Centro,2023-10-11
+C-0061,Logística San Lorenzo Norte S.A. de C.V.,logistics,Sureste,2023-11-05
+C-0062,Constructora Palo Blanco S.A. de C.V.,construction,Norte,2023-08-11
+C-0063,Arrendadora Arroyo Seco S.A. de C.V.,rental,Occidente,2025-07-07
+C-0064,Servicios Técnicos Sabinal S.A. de C.V.,field_services,Noreste,2023-07-02
+C-0065,Granjas San Lorenzo Norte S.A. de C.V.,agribusiness,Noreste,2023-09-18
+C-0066,Granjas Peñasco S.A. de C.V.,agribusiness,Centro,2023-09-22
+C-0067,Arrendadora Tres Ríos S.A. de C.V.,rental,Noreste,2023-09-22
+C-0068,Servicios Técnicos Encinal S.A. de C.V.,field_services,Centro,2023-08-04
+C-0069,Arrendadora Bajío Verde S.A. de C.V.,rental,Sureste,2023-07-09
+C-0070,Renta de Autos Peñasco S.A. de C.V.,rental,Occidente,2023-03-16
+C-0071,Logística Puerto Viejo S.A. de C.V.,logistics,Noreste,2023-12-18
+C-0072,Granjas Mesa Blanca S.A. de C.V.,agribusiness,Centro,2022-12-26
+C-0073,Constructora Media Luna S.A. de C.V.,construction,Occidente,2023-07-12
+C-0074,Fletes Cerro Prieto S.A. de C.V.,logistics,Norte,2024-10-12
+C-0075,Distribuidora Encinal S.A. de C.V.,distribution,Norte,2025-10-22
+C-0076,Servicios Eléctricos Sabinal S.A. de C.V.,utilities,Noreste,2023-08-10
+C-0077,Constructora Sabinal S.A. de C.V.,construction,Occidente,2023-02-23
+C-0078,Constructora Costa Brava S.A. de C.V.,construction,Centro,2025-05-21
+C-0079,Redes Puerto Viejo S.A. de C.V.,utilities,Occidente,2023-09-12
+C-0080,Servicios Técnicos Las Ánimas S.A. de C.V.,field_services,Noreste,2022-12-02
+C-0081,Obras y Proyectos Peñasco S.A. de C.V.,construction,Noreste,2024-02-20
+C-0082,Servicios Eléctricos Cerro Prieto S.A. de C.V.,utilities,Norte,2025-04-14
+C-0083,Distribuidora Alborada S.A. de C.V.,distribution,Centro,2024-01-07
+C-0084,Fletes Los Pinos Dos S.A. de C.V.,logistics,Sureste,2025-09-15
+C-0085,Constructora Puerto Viejo S.A. de C.V.,construction,Centro,2023-07-25
+C-0086,Servicios Eléctricos Los Pinos Dos S.A. de C.V.,utilities,Centro,2024-06-05
+C-0087,Renta de Autos Tres Ríos S.A. de C.V.,rental,Occidente,2023-06-15
+C-0088,Renta de Autos Ojo de Agua S.A. de C.V.,rental,Centro,2025-01-17
+C-0089,Redes Sabinal S.A. de C.V.,utilities,Noreste,2024-01-15
+C-0090,Obras y Proyectos Tres Ríos S.A. de C.V.,construction,Noreste,2025-06-04
+C-0091,Constructora Peñasco S.A. de C.V.,construction,Sureste,2024-05-13
+C-0092,Mantenimiento Cerro Prieto S.A. de C.V.,field_services,Norte,2023-02-17
+C-0093,Distribuidora Nogalera S.A. de C.V.,distribution,Noreste,2024-10-31
+C-0094,Agroindustrias Piedra Larga S.A. de C.V.,agribusiness,Norte,2023-03-26
+C-0095,Obras y Proyectos Rincón Hondo S.A. de C.V.,construction,Norte,2024-09-26
+C-0096,Constructora Agua Clara S.A. de C.V.,construction,Noreste,2022-08-21
+C-0097,Mantenimiento Piedra Larga S.A. de C.V.,field_services,Occidente,2023-07-10
+C-0098,Constructora Vega Roja S.A. de C.V.,construction,Sureste,2023-08-23
+C-0099,Mantenimiento Nogalera S.A. de C.V.,field_services,Norte,2024-03-27
+C-0100,Comercializadora Rincón Hondo S.A. de C.V.,distribution,Sureste,2024-05-02
+C-0101,Granjas Costa Brava S.A. de C.V.,agribusiness,Sureste,2023-03-13
+C-0102,Distribuidora Vega Roja S.A. de C.V.,distribution,Noreste,2023-03-17
+C-0103,Renta de Autos El Mezquital S.A. de C.V.,rental,Norte,2025-06-16
+C-0104,Mantenimiento Cañada Fría S.A. de C.V.,field_services,Centro,2024-07-08
+C-0105,Mantenimiento Peñasco S.A. de C.V.,field_services,Norte,2023-10-27
+C-0106,Renta de Autos Palo Blanco S.A. de C.V.,rental,Sureste,2023-10-01
+C-0107,Renta de Autos Mesa Blanca S.A. de C.V.,rental,Occidente,2023-06-21
+C-0108,Servicios Técnicos Cerro Prieto S.A. de C.V.,field_services,Sureste,2023-06-29
+C-0109,Comercializadora San Lorenzo Norte S.A. de C.V.,distribution,Noreste,2023-03-11
+C-0110,Servicios Eléctricos Cañada Fría S.A. de C.V.,utilities,Occidente,2024-01-26
+C-0111,Fletes Bajío Verde S.A. de C.V.,logistics,Centro,2024-11-27
+C-0112,Constructora Bajío Verde S.A. de C.V.,construction,Sureste,2023-12-03
+C-0113,Distribuidora La Cumbrera S.A. de C.V.,distribution,Norte,2023-06-06
+C-0114,Renta de Autos Vega Roja S.A. de C.V.,rental,Noreste,2023-02-26
+C-0115,Mantenimiento Arroyo Seco S.A. de C.V.,field_services,Norte,2025-02-15
+C-0116,Constructora Cañada Fría S.A. de C.V.,construction,Occidente,2023-10-08
+C-0117,Obras y Proyectos Alborada S.A. de C.V.,construction,Centro,2023-07-06
+C-0118,Granjas Alborada S.A. de C.V.,agribusiness,Occidente,2022-07-19
+C-0119,Servicios Eléctricos Piedra Larga S.A. de C.V.,utilities,Noreste,2023-02-02
+C-0120,Servicios Eléctricos Mesa Blanca S.A. de C.V.,utilities,Sureste,2022-06-20
+C-0121,Servicios Eléctricos Alborada S.A. de C.V.,utilities,Sureste,2023-12-19
+C-0122,Constructora Encinal S.A. de C.V.,construction,Sureste,2024-03-20
+C-0123,Transportes Sabinal S.A. de C.V.,logistics,Norte,2024-10-29
+C-0124,Constructora Tres Ríos S.A. de C.V.,construction,Noreste,2024-01-24
+C-0125,Transportes Cañada Fría S.A. de C.V.,logistics,Noreste,2025-03-02
+C-0126,Distribuidora Costa Brava S.A. de C.V.,distribution,Occidente,2025-01-16
+C-0127,Transportes Peñasco S.A. de C.V.,logistics,Noreste,2023-05-25
+C-0128,Redes Cerro Prieto S.A. de C.V.,utilities,Noreste,2024-12-16
+C-0129,Comercializadora Los Pinos Dos S.A. de C.V.,distribution,Noreste,2025-12-12
+C-0130,Fletes Tierra Alta S.A. de C.V.,logistics,Norte,2024-02-11
+C-0131,Logística Costa Brava S.A. de C.V.,logistics,Noreste,2025-04-07
+C-0132,Obras y Proyectos Nogalera S.A. de C.V.,construction,Sureste,2023-11-11
+C-0133,Agroindustrias Media Luna S.A. de C.V.,agribusiness,Norte,2023-07-05
+C-0134,Fletes Las Ánimas S.A. de C.V.,logistics,Centro,2023-09-30
+C-0135,Agroindustrias Sabinal S.A. de C.V.,agribusiness,Noreste,2024-01-05
+C-0136,Arrendadora Palo Blanco S.A. de C.V.,rental,Norte,2023-05-03
+C-0137,Obras y Proyectos Lomas Grises S.A. de C.V.,construction,Occidente,2023-06-21
+C-0138,Agroindustrias Rincón Hondo S.A. de C.V.,agribusiness,Norte,2024-04-12
+C-0139,Distribuidora Arroyo Seco S.A. de C.V.,distribution,Centro,2022-07-27
+C-0140,Agroindustrias Lomas Grises S.A. de C.V.,agribusiness,Noreste,2024-07-12
+C-0141,Obras y Proyectos Sabinal S.A. de C.V.,construction,Centro,2023-02-26
+C-0142,Renta de Autos La Cumbrera S.A. de C.V.,rental,Norte,2023-06-03
+C-0143,Mantenimiento Vega Roja S.A. de C.V.,field_services,Norte,2023-01-05
+C-0144,Distribuidora Ojo de Agua S.A. de C.V.,distribution,Norte,2024-09-16
+C-0145,Granjas La Cumbrera S.A. de C.V.,agribusiness,Norte,2023-06-05
+C-0146,Agroindustrias Encinal S.A. de C.V.,agribusiness,Occidente,2023-06-03
+C-0147,Constructora La Cumbrera S.A. de C.V.,construction,Norte,2023-04-25
+C-0148,Fletes El Mezquital S.A. de C.V.,logistics,Centro,2022-11-30
+C-0149,Obras y Proyectos Piedra Larga S.A. de C.V.,construction,Noreste,2024-12-01
+C-0150,Arrendadora Cerro Prieto S.A. de C.V.,rental,Occidente,2023-06-09
+C-0151,Constructora El Mezquital S.A. de C.V.,construction,Norte,2023-02-22
+C-0152,Comercializadora Costa Brava S.A. de C.V.,distribution,Sureste,2022-09-03
+C-0153,Distribuidora Mesa Blanca S.A. de C.V.,distribution,Occidente,2023-11-01
+C-0154,Redes Arroyo Seco S.A. de C.V.,utilities,Centro,2024-01-03
+C-0155,Agroindustrias Ojo de Agua S.A. de C.V.,agribusiness,Centro,2024-04-04
+C-0156,Servicios Eléctricos Rincón Hondo S.A. de C.V.,utilities,Centro,2025-03-01
+C-0157,Logística Los Pinos Dos S.A. de C.V.,logistics,Noreste,2024-12-17
+C-0158,Obras y Proyectos El Mezquital S.A. de C.V.,construction,Sureste,2024-10-24
+C-0159,Mantenimiento Puerto Viejo S.A. de C.V.,field_services,Occidente,2024-08-15
+C-0160,Servicios Técnicos Mesa Blanca S.A. de C.V.,field_services,Occidente,2023-05-02
+C-0161,Servicios Técnicos Media Luna S.A. de C.V.,field_services,Occidente,2024-07-15
+C-0162,Granjas Palo Blanco S.A. de C.V.,agribusiness,Sureste,2024-01-25
+C-0163,Arrendadora Lomas Grises S.A. de C.V.,rental,Centro,2022-10-21
+C-0164,Comercializadora Media Luna S.A. de C.V.,distribution,Norte,2023-01-19
+C-0165,Agroindustrias Las Ánimas S.A. de C.V.,agribusiness,Noreste,2023-04-10
+C-0166,Redes Nogalera S.A. de C.V.,utilities,Occidente,2022-09-14
+C-0167,Comercializadora Puerto Viejo S.A. de C.V.,distribution,Occidente,2024-03-19
+C-0168,Granjas Agua Clara S.A. de C.V.,agribusiness,Sureste,2023-08-26
+C-0169,Transportes Puerto Viejo S.A. de C.V.,logistics,Occidente,2024-01-28
+C-0170,Agroindustrias Puerto Viejo S.A. de C.V.,agribusiness,Noreste,2024-12-04
+C-0171,Obras y Proyectos Agua Clara S.A. de C.V.,construction,Centro,2022-12-13
+C-0172,Servicios Técnicos Nogalera S.A. de C.V.,field_services,Noreste,2023-08-11
+C-0173,Granjas Puerto Viejo S.A. de C.V.,agribusiness,Norte,2023-09-27
+C-0174,Distribuidora Puerto Viejo S.A. de C.V.,distribution,Noreste,2024-04-18
+C-0175,Agroindustrias Palo Blanco S.A. de C.V.,agribusiness,Norte,2023-04-10
+C-0176,Agroindustrias Cerro Prieto S.A. de C.V.,agribusiness,Sureste,2024-02-23
+C-0177,Servicios Eléctricos La Cumbrera S.A. de C.V.,utilities,Noreste,2023-05-29
+C-0178,Logística Cerro Prieto S.A. de C.V.,logistics,Centro,2022-07-11
+C-0179,Redes Tierra Alta S.A. de C.V.,utilities,Occidente,2022-11-06
+C-0180,Obras y Proyectos Costa Brava S.A. de C.V.,construction,Occidente,2025-01-15
+C-0181,Mantenimiento Los Pinos Dos S.A. de C.V.,field_services,Noreste,2024-04-23
+C-0182,Renta de Autos Los Pinos Dos S.A. de C.V.,rental,Norte,2024-05-10
+C-0183,Servicios Eléctricos Tierra Alta S.A. de C.V.,utilities,Noreste,2024-03-31
+C-0184,Comercializadora Bajío Verde S.A. de C.V.,distribution,Sureste,2023-04-01
+C-0185,Constructora Cerro Prieto S.A. de C.V.,construction,Sureste,2024-03-09
+C-0186,Distribuidora El Mezquital S.A. de C.V.,distribution,Occidente,2024-04-30
+C-0187,Comercializadora Tierra Alta S.A. de C.V.,distribution,Sureste,2025-01-12
+C-0188,Transportes El Mezquital S.A. de C.V.,logistics,Centro,2024-04-17
+C-0189,Distribuidora Media Luna S.A. de C.V.,distribution,Centro,2024-02-04
+C-0190,Servicios Técnicos Bajío Verde S.A. de C.V.,field_services,Centro,2023-12-16
+C-0191,Comercializadora Sabinal S.A. de C.V.,distribution,Noreste,2022-12-30
+C-0192,Arrendadora Vega Roja S.A. de C.V.,rental,Noreste,2024-01-10
+C-0193,Arrendadora Mesa Blanca S.A. de C.V.,rental,Centro,2022-08-29
+C-0194,Arrendadora San Lorenzo Norte S.A. de C.V.,rental,Norte,2023-05-03
+C-0195,Servicios Eléctricos Agua Clara S.A. de C.V.,utilities,Noreste,2023-04-03
+C-0196,Arrendadora Las Ánimas S.A. de C.V.,rental,Noreste,2024-10-21
+C-0197,Renta de Autos Bajío Verde S.A. de C.V.,rental,Centro,2024-10-22
+C-0198,Obras y Proyectos Arroyo Seco S.A. de C.V.,construction,Noreste,2022-08-08
+C-0199,Obras y Proyectos Palo Blanco S.A. de C.V.,construction,Occidente,2022-09-29
+C-0200,Agroindustrias Agua Clara S.A. de C.V.,agribusiness,Occidente,2023-01-21
+C-0201,Servicios Eléctricos Arroyo Seco S.A. de C.V.,utilities,Noreste,2023-06-03
+C-0202,Servicios Eléctricos Palo Blanco S.A. de C.V.,utilities,Sureste,2023-10-31
+C-0203,Comercializadora Lomas Grises S.A. de C.V.,distribution,Centro,2025-02-28
+C-0204,Constructora Nogalera S.A. de C.V.,construction,Noreste,2022-09-24
+C-0205,Constructora Tierra Alta S.A. de C.V.,construction,Centro,2023-03-29
+C-0206,Granjas Las Ánimas S.A. de C.V.,agribusiness,Centro,2023-05-09
+C-0207,Comercializadora Cañada Fría S.A. de C.V.,distribution,Centro,2025-01-12
+C-0208,Granjas Tierra Alta S.A. de C.V.,agribusiness,Sureste,2024-08-11
+C-0209,Renta de Autos Costa Brava S.A. de C.V.,rental,Occidente,2022-10-12
+C-0210,Servicios Técnicos Alborada S.A. de C.V.,field_services,Norte,2024-12-02
+C-0211,Mantenimiento Rincón Hondo S.A. de C.V.,field_services,Norte,2022-12-11
+C-0212,Fletes Rincón Hondo S.A. de C.V.,logistics,Centro,2023-12-24
+C-0213,Constructora Arroyo Seco S.A. de C.V.,construction,Norte,2023-04-17
+C-0214,Arrendadora Costa Brava S.A. de C.V.,rental,Centro,2023-01-06
+C-0215,Granjas Nogalera S.A. de C.V.,agribusiness,Sureste,2024-11-25
+C-0216,Granjas Arroyo Seco S.A. de C.V.,agribusiness,Occidente,2024-04-21
+C-0217,Logística Sabinal S.A. de C.V.,logistics,Norte,2023-01-10
+C-0218,Arrendadora Peñasco S.A. de C.V.,rental,Sureste,2023-05-09
+C-0219,Fletes Tres Ríos S.A. de C.V.,logistics,Centro,2023-11-10
+C-0220,Redes Piedra Larga S.A. de C.V.,utilities,Norte,2022-12-25

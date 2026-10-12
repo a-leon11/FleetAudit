@@ -1,0 +1,42 @@
+dealer_id,name,region,city,onboarded
+D-01,Motores Arcos,Noreste,Monterrey,2023-12-01
+D-02,Camiones Encino,Norte,Torreón,2022-04-17
+D-03,Motores Cumbres,Centro,Querétaro,2022-01-19
+D-04,Flotillas Ciprés,Occidente,León,2022-05-25
+D-05,Flotillas Cerro Azul,Sureste,Mérida,2021-05-24
+D-06,Motores Puerta Norte,Noreste,Saltillo,2023-05-19
+D-07,Grupo Automotriz Lomas del Sol,Norte,Chihuahua,2023-03-16
+D-08,Flotillas Lomas del Sol,Centro,Ciudad de México,2022-06-18
+D-09,Agencia Río Bravo,Occidente,Guadalajara,2022-11-18
+D-10,Camiones Cumbres,Sureste,Villahermosa,2021-09-06
+D-11,Flotillas Laguna Seca,Noreste,Monterrey,2022-08-28
+D-12,Flotillas Cumbres,Norte,Hermosillo,2022-04-27
+D-13,Flotillas Encino,Centro,Ciudad de México,2022-10-18
+D-14,Distribuidora Automotriz Puerta Norte,Occidente,León,2021-08-13
+D-15,Grupo Automotriz Ciprés,Sureste,Mérida,2021-05-28
+D-16,Camiones Puerta Norte,Noreste,Monterrey,2022-11-25
+D-17,Distribuidora Automotriz Altamira Sur,Norte,Hermosillo,2022-10-19
+D-18,Flotillas Paso Ancho,Centro,Ciudad de México,2022-04-25
+D-19,Distribuidora Automotriz Mirador,Occidente,León,2021-03-10
+D-20,Camiones Arcos,Sureste,Mérida,2022-11-13
+D-21,Motores Encino,Noreste,Reynosa,2021-08-04
+D-22,Distribuidora Automotriz Paso Ancho,Norte,Chihuahua,2021-12-27
+D-23,Motores Paso Ancho,Centro,Ciudad de México,2023-02-26
+D-24,Distribuidora Automotriz Encino,Occidente,Guadalajara,2022-02-25
+D-25,Grupo Automotriz Huasteca,Sureste,Mérida,2023-07-01
+D-26,Camiones Laguna Seca,Noreste,Reynosa,2023-05-15
+D-27,Flotillas Altamira Sur,Norte,Torreón,2023-04-23
+D-28,Distribuidora Automotriz Huasteca,Centro,Puebla,2021-06-07
+D-29,Grupo Automotriz Laguna Seca,Occidente,Guadalajara,2021-11-12
+D-30,Autos Ciprés,Sureste,Mérida,2022-04-22
+D-31,Grupo Automotriz Bahía Clara,Noreste,Saltillo,2021-11-16
+D-32,Autos Bahía Clara,Norte,Chihuahua,2021-09-26
+D-33,Camiones Sierra Alta,Centro,Puebla,2021-11-21
+D-34,Autos Sierra Alta,Occidente,Guadalajara,2021-05-02
+D-35,Grupo Automotriz Encino,Sureste,Mérida,2022-11-04
+D-36,Motores Laguna Seca,Noreste,Monterrey,2023-05-08
+D-37,Flotillas Puerta Norte,Norte,Torreón,2023-02-17
+D-38,Agencia Valle Real,Centro,Querétaro,2022-08-08
+D-39,Distribuidora Automotriz Cumbres,Occidente,Guadalajara,2023-09-19
+D-40,Grupo Automotriz Cerro Azul,Sureste,Mérida,2022-09-02
+D-41,Agencia Huasteca,Noreste,Monterrey,2023-01-11

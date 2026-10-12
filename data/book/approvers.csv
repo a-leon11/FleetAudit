@@ -1,0 +1,11 @@
+approver_id,name,level,authority_mxn
+AP-01,Analista de crédito 01,1,2500000
+AP-02,Analista de crédito 02,1,2500000
+AP-03,Analista de crédito 03,1,2500000
+AP-04,Analista de crédito 04,1,2500000
+AP-05,Analista de crédito 05,2,6000000
+AP-06,Analista de crédito 06,2,6000000
+AP-07,Analista de crédito 07,2,6000000
+AP-08,Analista de crédito 08,3,15000000
+AP-09,Analista de crédito 09,3,15000000
+AP-10,Comité de crédito,4,250000000
